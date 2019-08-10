@@ -7,10 +7,11 @@ This project is a website for my pilates teacher Amy. For years, Amy has used a 
 This app will allow people to learn about pilates and Amy, to book an appointment, and to write and view reviews. 
 
 ### Features
-1. Book Appointment: Users will be able to look at available appointments and book one that fits their schedule. 
+1. New Client Intake Form: Users will be able to fill out a form with information if they are a new client of Amy's. 
 2. Who is Amy?: Users will be able to learn about Amy through her bio, see what she looks like, and contact her.
 3. What is Pilates?: Users will be able to learn about pilates--what it is and what it's like to do it with Amy. 
-4. Reviews: Users will be able to view reviews people have written about Amy's classes and add their own reviews. 
+4. Service: Users will be able to view services Amy offers along with short descriptions. 
+5. Payment: Users will be able to make payments for their classes and buy gift certificates. 
 
 ### Technologies
 - HTML
