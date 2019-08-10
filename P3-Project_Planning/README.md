@@ -22,4 +22,4 @@ Include a link to your public Trello board. Be sure you have user stories added 
 
 Include a link to your project on GitHub.
    
-   
+   https://github.com/abdunls/liftoff-assignments/tree/master/P3-Project_Planning
